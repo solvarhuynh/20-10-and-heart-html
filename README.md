@@ -1,4 +1,4 @@
-# 20-10 & Heart Animations (HTML/CSS/JS)
+# 20-10 & Heart Animations (HTML/CSS/JS) - 10/2024
 
 ---
 
@@ -37,4 +37,4 @@ Không cần cài đặt thư viện hay build phức tạp:
 
 ## Ghi chú
 
-- Project được tạo vào năm **2024** với mục đích vui vẻ và giải trí cá nhân.
+- Project được tạo với mục đích vui vẻ và giải trí cá nhân.
